@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Dosis:400,600,700,800");
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
 @font-face {
   font-family: "Uni Sans";
   src: url("https://res.cloudinary.com/muhammederdem/raw/upload/v1536168547/unisans-font/UniSansHeavyCAPS.woff2") format("woff2"), url("https://res.cloudinary.com/muhammederdem/raw/upload/v1536168547/unisans-font/UniSansHeavyCAPS.woff") format("woff"), url("https://res.cloudinary.com/muhammederdem/raw/upload/v1536168548/unisans-font/UniSansHeavyCAPS.ttf") format("truetype");
